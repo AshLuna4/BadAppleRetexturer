@@ -6,4 +6,5 @@ Joker texture by [GoatmanThe15th](https://www.deviantart.com/goatmanthe15th/art/
 
 INSTRUCTIONS:
 - Install [Steamodded](https://github.com/Steamodded/smods).
-- Place 'bad-apple-retexture' folder into the mods folder.
+- Download this .zip via the green Code button or [Pressing Here](https://github.com/AshLuna4/BadAppleRetexturer/archive/refs/heads/main.zip).
+- Place 'BadAppleRetexturer-main' **folder** into the mods folder.
